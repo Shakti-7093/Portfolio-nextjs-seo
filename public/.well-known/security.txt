@@ -1,0 +1,4 @@
+Contact: mailto:shaktisinghchundawat7093@gmail.com
+Expires: 2026-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://www.shaktisinghchundawat.online/.well-known/security.txt
